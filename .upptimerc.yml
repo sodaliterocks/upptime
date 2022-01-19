@@ -6,7 +6,11 @@ assignees:
   - electricduck
 
 sites:
-  - name: Sodalite
+  - name: OSTree Repository
+    url: https://ostree.sodalite.rocks
+  - name: Git
+    url: https://git.sodalite.rocks
+  - name: Website
     url: https://sodalite.rocks
 
 status-website:
@@ -19,4 +23,3 @@ status-website:
       href: https://github.com/sodaliterocks
     - title: Website
       href: https://sodalite.rocks
-  theme: dark
