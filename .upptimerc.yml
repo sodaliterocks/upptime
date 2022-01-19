@@ -12,7 +12,7 @@ sites:
 status-website:
   cname: uptime.sodalite.rocks
   name: Sodalite Uptime
-    navbar:
+  navbar:
     - title: Status
       href: /
     - title: GitHub
