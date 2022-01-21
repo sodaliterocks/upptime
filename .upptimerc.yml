@@ -8,10 +8,6 @@ assignees:
 sites:
   - name: OSTree Repository
     url: https://ostree.sodalite.rocks
-  - name: Git (Gitea)
-    url: https://git.sodalite.rocks/gitea
-  - name: Git (GitHub)
-    url: https://git.sodalite.rocks/github
   - name: Website
     url: https://sodalite.rocks
 
