@@ -4,19 +4,19 @@
     "url": "https://ostree.sodalite.rocks",
     "icon": "https://favicons.githubusercontent.com/ostree.sodalite.rocks",
     "slug": "os-tree-repository",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 409,
-    "timeWeek": 934,
-    "timeMonth": 934,
-    "timeYear": 934,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 868,
+    "timeDay": 408,
+    "timeWeek": 868,
+    "timeMonth": 868,
+    "timeYear": 868,
     "dailyMinutesDown": {
-      "2022-01-23": 0
+      "2022-01-23": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sodalite.rocks",
     "icon": "https://favicons.githubusercontent.com/sodalite.rocks",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 567,
-    "timeWeek": 599,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 596,
+    "timeDay": 570,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-01-23": 0
+      "2022-01-23": 5
     }
   }
 ]
