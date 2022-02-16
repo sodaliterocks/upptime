@@ -4,10 +4,10 @@
     "url": "https://ostree.sodalite.rocks",
     "icon": "https://favicons.githubusercontent.com/ostree.sodalite.rocks",
     "slug": "os-tree-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
     "time": 691,
@@ -16,6 +16,7 @@
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
+      "2022-02-16": 1,
       "2022-01-29": 35,
       "2022-01-25": 6,
       "2022-01-23": 27
@@ -26,7 +27,7 @@
     "url": "https://sodalite.rocks",
     "icon": "https://favicons.githubusercontent.com/sodalite.rocks",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 834,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2022-02-16": 0,
       "2022-02-02": 6,
       "2022-01-29": 40,
       "2022-01-25": 6,
